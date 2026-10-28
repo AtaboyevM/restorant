@@ -1,0 +1,197 @@
+{
+  "brand": {
+    "name": "VALVERIS",
+    "subtitle": "Grand Dining Network",
+    "tagline": "Dunyo darajasidagi gastronomik san'at va shohona mehmondo'stlik"
+  },
+  "nav": {
+    "home": "Asosiy",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "reservations": "Stol bron qilish",
+    "favorites": "Sevimlilar",
+    "signIn": "Ro'yxatdan o'tish",
+    "login": "Kirish",
+    "logout": "Chiqish",
+    "bookTable": "Stol bron qilish"
+  },
+  "hero": {
+    "badge": "Michelin Yulduzli Ta'm Sirlari",
+    "title1": "Nafis Gastronomiya &",
+    "title2": "Shohona Mehmondo'stlik",
+    "desc": "VALVERIS — dunyoning 6 ta poytaxtida joylashgan premium restoranlar tarmog'i. Nozik pazandalik san'ati, nodir kolleksiya sharoblari va unutilmas atmosfera.",
+    "discoverMenu": "Menyuni kashf eting",
+    "bookTable": "Stol bron qilish",
+    "slide1Title": "Shohona Muhit & Betakror Nafosat",
+    "slide1Desc": "Oltin hoshiyali zallar, jonli jazz va dunyo miqyosidagi oshpazlar san'ati.",
+    "slide2Title": "Miyazaki A5 Wagyu & Qora Truffle",
+    "slide2Desc": "Kutilganidan-da a'lo ta'm: eng sara xalqaro ingredientlar.",
+    "slide3Title": "Bo'g'oz va Shahar Panoramasi",
+    "slide3Desc": "Sokin oqshomlar, shaxsiy VIP zallar va beqiyos xizmat ko'rsatish."
+  },
+  "home": {
+    "locationsTitle": "Bizning Restoranlar Tarmog'i",
+    "locationsSubtitle": "Har bir restoran — o'ziga xos arxitektura va gastronomik yo'nalishga ega san'at asari",
+    "specialsTitle": "Oshpazimizning Maxsus Durdonalari",
+    "specialsSubtitle": "db.json ma'lumotlar bazasidan jonli yuklanadigan eksklyuziv taomlar to'plami",
+    "ctaTitle": "Bugun Oqshomingizni Unutilmas Qiling",
+    "ctaDesc": "25 ta premium stolimizdan o'zingizga ma'qulini tanlang: panoramik deraza yonida, asosiy zaldagi jonli musiqa qoshida yoki shaxsiy VIP salonda.",
+    "ctaButton": "Stol Tanlash va Bron Qilish",
+    "advantagesTitle": "Nega Aynan VALVERIS?",
+    "advantages": [
+      {
+        "title": "Michelin E'tirofi",
+        "desc": "Xalqaro darajadagi mutaxassislar va oshpazlar tomonidan yaratilgan mualliflik menyusi."
+      },
+      {
+        "title": "Eng Saralab Olingan Mahsulotlar",
+        "desc": "Fransiya, Yaponiya va Italiyadan maxsus keltirilgan premium organik mahsulotlar."
+      },
+      {
+        "title": "Mukammal Shaxsiy Xizmat",
+        "desc": "Har bir mehmon uchun shaxsiy butler, maxsus sommelier va yakkama-yakka e'tibor."
+      },
+      {
+        "title": "Qulay Bron Tizimi",
+        "desc": "25 ta stolning real vaqt rejimida bandligi va bir necha soniyada onlayn bron qilish."
+      }
+    ],
+    "reviewsTitle": "Hurmatli Mehmonlarimiz Fikrlari",
+    "reviewsSubtitle": "Dunyo gastronomik tanqidchilari va sodiq mijozlarimiz taassurotlari"
+  },
+  "restaurant": {
+    "viewDetails": "Batafsil ko'rish",
+    "reserve": "Ushbu restoranda bron qilish",
+    "cuisine": "Oshxona yo'nalishi",
+    "hours": "Ish vaqti",
+    "address": "Manzil",
+    "headChef": "Bosh oshpaz",
+    "capacity": "Sig'imi",
+    "features": "Xususiyatlari",
+    "backToList": "Barcha restoranlarga qaytish",
+    "gallery": "Fotogalereya",
+    "aboutLocation": "Restoran haqida",
+    "phone": "Telefon raqami"
+  },
+  "specials": {
+    "loading": "Maxsus taomlar db.json dan yuklanmoqda...",
+    "error": "db.json ma'lumotlarini yuklashda xatolik yuz berdi",
+    "retry": "Qaytadan urinish",
+    "empty": "Hozircha maxsus takliflar mavjud emas",
+    "like": "Sevimlilarga qo'shish",
+    "liked": "Sevimlilarda",
+    "prepTime": "Tayyorlanish vaqti",
+    "calories": "Energetik qiymati"
+  },
+  "reservations": {
+    "title": "Stol Bron Qilish Tizimi",
+    "subtitle": "Jami 25 ta stolimizdan mosini tanlang va onlayn band qiling",
+    "filterZone": "Zona bo'yicha filter",
+    "filterStatus": "Holati bo'yicha filter",
+    "allZones": "Barcha zonalar",
+    "allStatuses": "Barcha holatlar",
+    "windowView": "Deraza yonida",
+    "mainHall": "Asosiy zal",
+    "vipZone": "VIP Zona",
+    "available": "Bo'sh (Bron mumkin)",
+    "booked": "Band qilingan",
+    "table": "Stol",
+    "seats": "kishilik",
+    "bookThisTable": "Ushbu stolni bron qilish",
+    "alreadyBooked": "Bu stol ayni paytda band",
+    "modalTitle": "Stol Bron Qilish",
+    "fullName": "To'liq ismingiz",
+    "phone": "Telefon raqamingiz",
+    "guests": "Mehmonlar soni",
+    "date": "Sana",
+    "time": "Vaqt",
+    "notes": "Qo'shimcha istaklaringiz (ixtiyoriy)",
+    "confirm": "Bronni tasdiqlash",
+    "cancel": "Bekor qilish",
+    "successTitle": "Stol Muvaffaqiyatli Bron Qilindi!",
+    "successDesc": "Hurmatli mehmon, sizning stolingiz muvaffaqiyatli band qilindi. SMS tasdiqnoma telefoningizga yuborildi.",
+    "myReservations": "Mening faol bronlarim",
+    "noReservations": "Sizda hali faol stol bronlari yo'q",
+    "cancelReservation": "Bronni bekor qilish",
+    "validation": {
+      "nameRequired": "Iltimos, ismingizni kiriting",
+      "phoneRequired": "Telefon raqamini to'g'ri formatda kiriting",
+      "guestsRequired": "Mehmonlar sonini ko'rsating",
+      "guestsExceed": "Mehmonlar soni stol sig'imidan oshmasligi kerak",
+      "dateRequired": "Sanani tanlang",
+      "timeRequired": "Vaqtni tanlang",
+      "alreadyBookedSlot": "Bu stol tanlangan sana va vaqt oralig'ida allaqachon band qilingan! Boshqa vaqt yoki boshqa stolni tanlang."
+    }
+  },
+  "favorites": {
+    "title": "Sevimlilar Ro'yxati",
+    "subtitle": "Siz yoqtirgan va saqlab qo'ygan restoranlar hamda taomlar",
+    "emptyTitle": "Sevimlilar ro'yxati hozircha bo'sh",
+    "emptyDesc": "O'zingizga ma'qul kelgan restoranlar va taomlarga yurakcha tugmasini bosib shu yerga saqlang.",
+    "browseRestaurants": "Restoranlarni ko'rish",
+    "removeItem": "Olib tashlash",
+    "totalSaved": "Jami saqlangan elementlar:"
+  },
+  "about": {
+    "title": "VALVERIS Tarixi va Falsafasi",
+    "subtitle": "Yuqori oshxona san'ati, mehmondo'stlik madaniyati va o'zgarmas sifat",
+    "storyTitle": "Shohona Oshxona Tarixi",
+    "storyP1": "VALVERIS brendi 2012 yilda an'anaviy mehmondo'stlik madaniyatini zamonaviy Yevropa gastronomiya cho'qqilari bilan birlashtirish maqsadi bilan asos solingan. Dastlabki kichik oilaviy atelyedan boshlangan loyiha bugungi kunda Parij, Toshkent, London, Dubay, Rim va Istanbul shaharlarida joylashgan xalqaro nufuzli restoranlar tarmog'iga aylandi.",
+    "storyP2": "Har bir restoranimiz o'z joylashuvining tarixiy madaniyatini hurmat qilgan holda, mahalliy eng sifatli tabiiy mahsulotlar va molekulyar oshpazlik sirlaridan foydalanadi. Mehmonlarimiz shunchaki taomlanmaydilar — ular unutilmas hissiyotlar safariga chiqadilar.",
+    "stats": [
+      { "val": "6 ta", "label": "Xalqaro Shaharlar" },
+      { "val": "14+", "label": "Yillik Tajriba" },
+      { "val": "2 ta", "label": "Michelin Yulduzi" },
+      { "val": "150,000+", "label": "Baxtiyor Mehmonlar" }
+    ],
+    "teamTitle": "Bizning Mohir Oshpazlarimiz",
+    "teamSubtitle": "O'z ishining chinakam ustalari va jahon e'tirofiga sazovor bo'lgan mutaxassislar"
+  },
+  "contact": {
+    "title": "Biz Bilan Bog'laning",
+    "subtitle": "Har qanday savol, korporativ tadbirlar yoki maxsus takliflar yuzasidan xabar qoldiring",
+    "name": "Ismingiz",
+    "email": "Email manzilingiz",
+    "subject": "Mavzu",
+    "message": "Xabaringiz",
+    "send": "Xabarni yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Xabaringiz muvaffaqiyatli qabul qilindi! Menejerimiz tez orada bog'lanadi.",
+    "infoTitle": "Aloqa Ma'lumotlari",
+    "centralOffice": "Bosh Qarorgoh",
+    "addressVal": "Amir Temur shoh ko'chasi 45, Toshkent, O'zbekiston",
+    "phoneVal": "+998 71 200 45 45",
+    "emailVal": "concierge@valveris-dining.com",
+    "hoursTitle": "Ish Tartibi",
+    "hoursVal": "Dushanba - Yakshanba: 12:00 - 01:00",
+    "mapTitle": "Bizning Joylashuvimiz"
+  },
+  "auth": {
+    "signInTitle": "VALVERIS Klubiga Ro'yxatdan O'tish",
+    "signInSubtitle": "Maxsus chegirmalar, tezkor stol bron qilish va shaxsiy imtiyozlarga ega bo'ling",
+    "loginTitle": "Shaxsiy Kabinetga Kirish",
+    "loginSubtitle": "O'z bronlaringiz va saqlangan sevimlilaringizni boshqaring",
+    "name": "To'liq ism",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlash",
+    "submitRegister": "Hisob yaratish",
+    "submitLogin": "Tizimga kirish",
+    "hasAccount": "Allaqachon hisobingiz bormi?",
+    "noAccount": "Hali hisobingiz yo'qmi?",
+    "loginLink": "Kirish",
+    "registerLink": "Ro'yxatdan o'tish",
+    "passwordsDoNotMatch": "Parollar bir-biriga mos kelmadi",
+    "authSuccess": "Muvaffaqiyatli bajarildi! Xush kelibsiz.",
+    "demoNotice": "Eslatma: Bu namoyish rejimida ishlovchi xavfsiz frontend autentifikatsiyasi."
+  },
+  "footer": {
+    "desc": "VALVERIS — zamonaviy gastronomiya, nozik sharob madaniyati va betakror mehmondo'stlik simfoniyasi.",
+    "quickLinks": "Tezkor Havolalar",
+    "locations": "Filiallar",
+    "contact": "Aloqa",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "brandNotice": "VALVERIS® ro'yxatdan o'tgan brend hisoblanadi.",
+    "downloadZip": "Loyiha ZIP faylini yuklab olish"
+  }
+}

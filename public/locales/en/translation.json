@@ -1,0 +1,197 @@
+{
+  "brand": {
+    "name": "VALVERIS",
+    "subtitle": "Grand Dining Network",
+    "tagline": "World-Class Gastronomic Artistry & Imperial Hospitality"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact",
+    "reservations": "Reservations",
+    "favorites": "Favorites",
+    "signIn": "Sign In",
+    "login": "Log In",
+    "logout": "Log Out",
+    "bookTable": "Book a Table"
+  },
+  "hero": {
+    "badge": "Michelin-Caliber Culinary Secrets",
+    "title1": "Haute Gastronomy &",
+    "title2": "Regal Hospitality",
+    "desc": "VALVERIS is an international network of ultra-luxury dining destinations across 6 world capitals. Impeccable culinary finesse, rare vintages, and timeless elegance.",
+    "discoverMenu": "Discover Our Menu",
+    "bookTable": "Book a Table",
+    "slide1Title": "Imperial Ambiance & Unrivaled Elegance",
+    "slide1Desc": "Gold-trimmed salons, live acoustic jazz, and world-renowned chef creations.",
+    "slide2Title": "Miyazaki A5 Wagyu & Black Perigord Truffle",
+    "slide2Desc": "Beyond expectations: ingredients meticulously sourced from elite world artisans.",
+    "slide3Title": "Bosphorus & Skyline Panoramas",
+    "slide3Desc": "Intimate evenings, private VIP salons, and tailored sommelier hospitality."
+  },
+  "home": {
+    "locationsTitle": "Our Restaurant Network",
+    "locationsSubtitle": "Each location is an architectural statement with its own distinguished culinary identity",
+    "specialsTitle": "Chef's Signature Creations",
+    "specialsSubtitle": "Exclusive dishes dynamically fetched via Fetch API from db.json",
+    "ctaTitle": "Make Your Evening Truly Unforgettable",
+    "ctaDesc": "Select from 25 premium dining tables: along the panoramic window, right beside live acoustic jazz, or inside a private VIP salon.",
+    "ctaButton": "Choose Table & Reserve",
+    "advantagesTitle": "Why Choose VALVERIS?",
+    "advantages": [
+      {
+        "title": "Michelin Recognition",
+        "desc": "Bespoke menus developed by internationally celebrated master chefs."
+      },
+      {
+        "title": "Finest Artisanal Ingredients",
+        "desc": "Flown in directly from trusted boutique producers in France, Japan, and Italy."
+      },
+      {
+        "title": "Personal Butler & Sommelier",
+        "desc": "Dedicated table butler and bespoke sommelier pairings for every reservation."
+      },
+      {
+        "title": "Real-Time Booking Engine",
+        "desc": "25 live table statuses with anti-collision scheduling and instant confirmation."
+      }
+    ],
+    "reviewsTitle": "Reflections from Distinguished Guests",
+    "reviewsSubtitle": "Global culinary critics and regular patrons share their VALVERIS experiences"
+  },
+  "restaurant": {
+    "viewDetails": "View Details",
+    "reserve": "Reserve at This Restaurant",
+    "cuisine": "Cuisine Specialty",
+    "hours": "Opening Hours",
+    "address": "Address",
+    "headChef": "Executive Chef",
+    "capacity": "Capacity",
+    "features": "Distinct Amenities",
+    "backToList": "Back to all locations",
+    "gallery": "Visual Gallery",
+    "aboutLocation": "About This Location",
+    "phone": "Telephone"
+  },
+  "specials": {
+    "loading": "Loading signature specials from db.json...",
+    "error": "Error fetching specials from db.json",
+    "retry": "Retry",
+    "empty": "No signature specials currently available",
+    "like": "Add to favorites",
+    "liked": "In favorites",
+    "prepTime": "Prep time",
+    "calories": "Energy"
+  },
+  "reservations": {
+    "title": "Table Reservation System",
+    "subtitle": "Browse 25 distinct restaurant tables and secure your private booking online",
+    "filterZone": "Filter by Zone",
+    "filterStatus": "Filter by Status",
+    "allZones": "All Zones",
+    "allStatuses": "All Statuses",
+    "windowView": "Window View",
+    "mainHall": "Main Hall",
+    "vipZone": "VIP Zone",
+    "available": "Available (Bookable)",
+    "booked": "Reserved",
+    "table": "Table",
+    "seats": "seats",
+    "bookThisTable": "Book This Table",
+    "alreadyBooked": "This table is currently reserved",
+    "modalTitle": "Reserve Table",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "guests": "Number of Guests",
+    "date": "Date",
+    "time": "Time Slot",
+    "notes": "Special Requests (Optional)",
+    "confirm": "Confirm Reservation",
+    "cancel": "Cancel",
+    "successTitle": "Table Confirmed Successfully!",
+    "successDesc": "Dear guest, your reservation is confirmed. We look forward to welcoming you to VALVERIS.",
+    "myReservations": "My Active Bookings",
+    "noReservations": "You have no active table bookings yet",
+    "cancelReservation": "Cancel Booking",
+    "validation": {
+      "nameRequired": "Please enter your full name",
+      "phoneRequired": "Please enter a valid phone number",
+      "guestsRequired": "Please specify number of guests",
+      "guestsExceed": "Number of guests cannot exceed table capacity",
+      "dateRequired": "Please select a date",
+      "timeRequired": "Please select a time slot",
+      "alreadyBookedSlot": "This table is already booked for this specific date and time slot! Please choose another slot or table."
+    }
+  },
+  "favorites": {
+    "title": "Your Saved Favorites",
+    "subtitle": "Restaurants and signature dishes curated in your personal list",
+    "emptyTitle": "Your favorites list is currently empty",
+    "emptyDesc": "Click the heart icon on any restaurant or dish card to save it here for quick access.",
+    "browseRestaurants": "Browse Restaurants",
+    "removeItem": "Remove",
+    "totalSaved": "Total saved items:"
+  },
+  "about": {
+    "title": "History & Philosophy of VALVERIS",
+    "subtitle": "Haute cuisine, authentic cultural reverence, and uncompromising luxury",
+    "storyTitle": "Genesis of a Culinary Icon",
+    "storyP1": "Founded in 2012, VALVERIS was born from a desire to combine grand European palace traditions with the vibrant culinary heritage of the ancient Silk Road and the Mediterranean. From an exclusive private atelier, the network grew into flagship locations in Paris, Tashkent, London, Dubai, Rome, and Istanbul.",
+    "storyP2": "Every establishment honors the unique cultural context of its host city while maintaining the highest standard of international gastronomy. Dining at VALVERIS is not merely a meal—it is a transcendent sensory journey.",
+    "stats": [
+      { "val": "6", "label": "Global Capitals" },
+      { "val": "14+", "label": "Years of Heritage" },
+      { "val": "2", "label": "Michelin Stars" },
+      { "val": "150,000+", "label": "Distinguished Guests" }
+    ],
+    "teamTitle": "Our Master Culinary Team",
+    "teamSubtitle": "Visionaries who elevate fine dining to an art form"
+  },
+  "contact": {
+    "title": "Connect with Us",
+    "subtitle": "Inquiries, corporate dining, private banquets, or concierge requests",
+    "name": "Your Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message was sent successfully! Our concierge team will reach out shortly.",
+    "infoTitle": "Contact Information",
+    "centralOffice": "Headquarters",
+    "addressVal": "45 Amir Temur Avenue, Tashkent, Uzbekistan",
+    "phoneVal": "+998 71 200 45 45",
+    "emailVal": "concierge@valveris-dining.com",
+    "hoursTitle": "Operating Hours",
+    "hoursVal": "Monday - Sunday: 12:00 PM - 01:00 AM",
+    "mapTitle": "Interactive Location Map"
+  },
+  "auth": {
+    "signInTitle": "Join the VALVERIS Circle",
+    "signInSubtitle": "Unlock priority table bookings, bespoke chef menus, and member privileges",
+    "loginTitle": "Welcome Back to VALVERIS",
+    "loginSubtitle": "Access your reserved tables and curated favorites list",
+    "name": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submitRegister": "Create Account",
+    "submitLogin": "Log In",
+    "hasAccount": "Already a member?",
+    "noAccount": "Don't have an account yet?",
+    "loginLink": "Log In",
+    "registerLink": "Sign Up",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "authSuccess": "Authentication successful! Welcome to VALVERIS.",
+    "demoNotice": "Notice: This operates as a secure client-side demonstration."
+  },
+  "footer": {
+    "desc": "VALVERIS — a harmony of contemporary gastronomy, vintage cellar curation, and royal hospitality.",
+    "quickLinks": "Quick Navigation",
+    "locations": "Locations",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "brandNotice": "VALVERIS® is a registered trademark.",
+    "downloadZip": "Download Project ZIP Archive"
+  }
+}

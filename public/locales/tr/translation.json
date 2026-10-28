@@ -1,0 +1,197 @@
+{
+  "brand": {
+    "name": "VALVERIS",
+    "subtitle": "Grand Dining Network",
+    "tagline": "Dünya standartlarında gastronomi sanatı ve kraliyet misafirperverliği"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "reservations": "Masa Rezervasyonu",
+    "favorites": "Favoriler",
+    "signIn": "Kayıt Ol",
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "bookTable": "Masa Ayırt"
+  },
+  "hero": {
+    "badge": "Michelin Yıldızı Adayı Lezzetler",
+    "title1": "Yüksek Gastronomi &",
+    "title2": "Kusursuz Ağırlama",
+    "desc": "VALVERIS, 6 dünya başkentinde bulunan ultra lüks restoranlar zinciridir. İnce mutfak sanatları, nadir şarap koleksiyonları ve büyüleyici atmosfer.",
+    "discoverMenu": "Menüyü Keşfedin",
+    "bookTable": "Masa Rezervasyonu Yap",
+    "slide1Title": "Saray Atmosferi & Eşsiz Zarafet",
+    "slide1Desc": "Altın detaylı salonlar, canlı akustik caz ve dünya çapında ödüllü şeflerin lezzetleri.",
+    "slide2Title": "Miyazaki A5 Wagyu & Siyah Trüf Mantarı",
+    "slide2Desc": "Beklentilerin ötesinde bir lezzet: dünyanın en seçkin çiftliklerinden gelen malzemeler.",
+    "slide3Title": "Boğaz & Şehir Panoraması",
+    "slide3Desc": "Büyüleyici gün batımı, özel VIP salonları ve kişiye özel sommelier hizmeti."
+  },
+  "home": {
+    "locationsTitle": "Restoran Ağımız",
+    "locationsSubtitle": "Her restoranımız kendine özgü mimarisi ve gastronomik felsefesiyle bir sanat eseridir",
+    "specialsTitle": "Şefimizin Özel Başyapıtları",
+    "specialsSubtitle": "db.json veri tabanından Fetch API ile canlı olarak yüklenen özel spesiyaller",
+    "ctaTitle": "Akşamınızı Unutulmaz Kılın",
+    "ctaDesc": "25 özel masamız arasından tercihinizi yapın: panoramik cam kenarında, canlı müzik eşliğinde veya özel VIP salonunda.",
+    "ctaButton": "Masa Seç ve Rezervasyon Yap",
+    "advantagesTitle": "Neden VALVERIS?",
+    "advantages": [
+      {
+        "title": "Michelin Onayı",
+        "desc": "Uluslararası üne sahip baş şefler tarafından hazırlanan özel tadım menüleri."
+      },
+      {
+        "title": "Seçkin Organik Ürünler",
+        "desc": "Fransa, Japonya ve İtalya'daki butik üreticilerden doğrudan temin edilen malzemeler."
+      },
+      {
+        "title": "Kişiye Özel Hizmet",
+        "desc": "Her masa için özel uşak, şarap eşleştirmesi ve kusursuz misafirperverlik."
+      },
+      {
+        "title": "Gerçek Zamanlı Rezervasyon",
+        "desc": "25 masanın anlık doluluk durumu, çakışmasız rezervasyon ve anında onay."
+      }
+    ],
+    "reviewsTitle": "Değerli Misafirlerimizin Yorumları",
+    "reviewsSubtitle": "Dünya gastronomi eleştirmenleri ve sadık konuklarımızın VALVERIS deneyimleri"
+  },
+  "restaurant": {
+    "viewDetails": "Detayları Gör",
+    "reserve": "Bu restoranda masa ayırt",
+    "cuisine": "Mutfak Türü",
+    "hours": "Çalışma Saatleri",
+    "address": "Adres",
+    "headChef": "Baş Şef",
+    "capacity": "Kapasite",
+    "features": "Özellikler",
+    "backToList": "Tüm restoranlara dön",
+    "gallery": "Fotoğraf Galerisi",
+    "aboutLocation": "Restoran Hakkında",
+    "phone": "Telefon"
+  },
+  "specials": {
+    "loading": "Özel lezzetler db.json'dan yükleniyor...",
+    "error": "db.json verileri yüklenirken bir hata oluştu",
+    "retry": "Yeniden Dene",
+    "empty": "Şu anda özel spesiyal bulunmuyor",
+    "like": "Favorilere Ekle",
+    "liked": "Favorilerde",
+    "prepTime": "Hazırlanma Süresi",
+    "calories": "Kalori"
+  },
+  "reservations": {
+    "title": "Masa Rezervasyon Sistemi",
+    "subtitle": "25 farklı restorant masasından dilediğinizi seçin ve hemen çevrim içi ayırtın",
+    "filterZone": "Bölgeye göre filtrele",
+    "filterStatus": "Duruma göre filtrele",
+    "allZones": "Tüm Bölgeler",
+    "allStatuses": "Tüm Durumlar",
+    "windowView": "Cam Kenarı",
+    "mainHall": "Ana Salon",
+    "vipZone": "VIP Salon",
+    "available": "Müsait (Ayırtılabilir)",
+    "booked": "Dolu (Rezerve)",
+    "table": "Masa",
+    "seats": "kişilik",
+    "bookThisTable": "Bu Masayı Ayırt",
+    "alreadyBooked": "Bu masa şu anda dolu",
+    "modalTitle": "Masa Rezervasyonu",
+    "fullName": "Adınız ve Soyadınız",
+    "phone": "Telefon Numaranız",
+    "guests": "Misafir Sayısı",
+    "date": "Tarih",
+    "time": "Saat Aralığı",
+    "notes": "Özel Talepleriniz (İsteğe bağlı)",
+    "confirm": "Rezervasyonu Onayla",
+    "cancel": "İptal",
+    "successTitle": "Masa Başarıyla Rezerve Edildi!",
+    "successDesc": "Değerli misafirimiz, masanız başarıyla ayırtıldı. Sizi VALVERIS'te ağırlamaktan onur duyarız.",
+    "myReservations": "Aktif Rezervasyonlarım",
+    "noReservations": "Henüz aktif bir rezervasyonunuz bulunmamaktadır",
+    "cancelReservation": "Rezervasyonu İptal Et",
+    "validation": {
+      "nameRequired": "Lütfen adınızı ve soyadınızı giriniz",
+      "phoneRequired": "Geçerli bir telefon numarası giriniz",
+      "guestsRequired": "Lütfen misafir sayısını belirtiniz",
+      "guestsExceed": "Misafir sayısı masa kapasitesini aşamaz",
+      "dateRequired": "Lütfen bir tarih seçiniz",
+      "timeRequired": "Lütfen saat aralığı seçiniz",
+      "alreadyBookedSlot": "Bu masa seçilen tarih ve saat için zaten rezerve edilmiştir! Lütfen başka bir saat veya masa seçiniz."
+    }
+  },
+  "favorites": {
+    "title": "Favorileriniz",
+    "subtitle": "Kaydettiğiniz seçkin restoranlar ve özel spesiyaller",
+    "emptyTitle": "Favori listeniz henüz boş",
+    "emptyDesc": "Restoran ve yemek kartlarındaki kalp simgesine tıklayarak beğendiğiniz lezzetleri buraya ekleyin.",
+    "browseRestaurants": "Restoranları Keşfet",
+    "removeItem": "Kaldır",
+    "totalSaved": "Toplam kaydedilen:"
+  },
+  "about": {
+    "title": "VALVERIS Tarihi ve Felsefesi",
+    "subtitle": "Yüksek gastronomi, zarif misafirperverlik ve tavizsiz kalite",
+    "storyTitle": "Bir Gastronomi Efsanesinin Doğuşu",
+    "storyP1": "VALVERIS, 2012 yılında geleneksel saray ziyafet kültürünü modern Avrupa gastronomi mükemmelliğiyle harmanlama vizyonuyla kuruldu. Butik bir mutfak atölyesi olarak başlayan yolculuk, bugün Paris, Taşkent, Londra, Dubai, Roma ve İstanbul'da ikonik restoran zincirine dönüştü.",
+    "storyP2": "Her restoranımızda yerel taze organik ürünler ile dünya çapındaki moleküler mutfak teknikleri buluşur. Misafirlerimize sadece bir akşam yemeği değil, büyüleyici bir gastronomi serüveni vadediyoruz.",
+    "stats": [
+      { "val": "6", "label": "Dünya Başkenti" },
+      { "val": "14+", "label": "Yıllık Tecrübe" },
+      { "val": "2", "label": "Michelin Yıldızı" },
+      { "val": "150,000+", "label": "Mutlu Misafir" }
+    ],
+    "teamTitle": "Usta Şef Kadromuz",
+    "teamSubtitle": "Gastronomiyi bir sanat dalına dönüştüren uluslararası ödüllü şeflerimiz"
+  },
+  "contact": {
+    "title": "Bizimle İletişime Geçin",
+    "subtitle": "Her türlü soru, özel etkinlik, gala yemekleri veya rezervasyon talepleriniz için bize ulaşın",
+    "name": "Adınız",
+    "email": "E-posta Adresiniz",
+    "subject": "Konu",
+    "message": "Mesajınız",
+    "send": "Mesaj Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız başarıyla iletildi! Konsiyerj ekibimiz en kısa sürede sizinle iletişime geçecektir.",
+    "infoTitle": "İletişim Bilgileri",
+    "centralOffice": "Merkez Ofis",
+    "addressVal": "Amir Temur Caddesi No: 45, Taşkent, Özbekistan",
+    "phoneVal": "+998 71 200 45 45",
+    "emailVal": "concierge@valveris-dining.com",
+    "hoursTitle": "Çalışma Saatleri",
+    "hoursVal": "Pazartesi - Pazar: 12:00 - 01:00",
+    "mapTitle": "Harita ve Ulaşım"
+  },
+  "auth": {
+    "signInTitle": "VALVERIS Kulübüne Kayıt Olun",
+    "signInSubtitle": "Öncelikli masa rezervasyonu, şef ikramları ve özel üyelik ayrıcalıklarına erişin",
+    "loginTitle": "Üye Girişi",
+    "loginSubtitle": "Rezervasyonlarınızı ve favori menülerinizi yönetin",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "submitRegister": "Hesap Oluştur",
+    "submitLogin": "Giriş Yap",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "noAccount": "Henüz hesabınız yok mu?",
+    "loginLink": "Giriş Yap",
+    "registerLink": "Kayıt Ol",
+    "passwordsDoNotMatch": "Şifreler uyuşmuyor",
+    "authSuccess": "Başarıyla giriş yapıldı! VALVERIS'e hoş geldiniz.",
+    "demoNotice": "Not: Bu sistem istemci tarafında çalışan güvenli bir demo yetkilendirmesidir."
+  },
+  "footer": {
+    "desc": "VALVERIS — modern gastronomi, şarap sanatı ve seçkin misafirperverliğin uyumu.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "locations": "Restoranlar",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "brandNotice": "VALVERIS® tescilli bir ticari markadır.",
+    "downloadZip": "Proje ZIP Dosyasını İndir"
+  }
+}

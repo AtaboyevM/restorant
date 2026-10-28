@@ -1,0 +1,281 @@
+{
+  "restaurants": [
+    {
+      "id": "valveris-tashkent",
+      "name": "VALVERIS Tashkent Grand",
+      "tagline": "Modern Silk Road Haute Cuisine",
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "address": "Amir Temur Avenue 45, Tashkent",
+      "phone": "+998 71 200 45 45",
+      "hours": "12:00 - 00:00 Daily",
+      "rating": 4.9,
+      "reviewsCount": 384,
+      "priceRange": "$$$$",
+      "cuisine": "Modern Fusion & National Haute Cuisine",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "VALVERIS tarmog'ining poytaxt markazidagi flagman restorani. Sharqona an'analar va Yevropa nozik oshxona san'atining uyg'unligi, 12 metrli shisha gumbaz va oltin hoshiyali interyer.",
+      "features": ["VIP Lounge", "Valet Parking", "Sommelier Cellar", "Live Jazz", "Terrace View"],
+      "headChef": "Chef Azizbek Rakhimov (Master of Haute Cuisine)",
+      "capacity": 140
+    },
+    {
+      "id": "valveris-paris",
+      "name": "VALVERIS Paris Étoile",
+      "tagline": "Classic French Craft & Contemporary Gastronomy",
+      "city": "Paris",
+      "country": "France",
+      "address": "28 Avenue Montaigne, 75008 Paris",
+      "phone": "+33 1 42 68 55 00",
+      "hours": "12:30 - 23:30 (Mon-Sat)",
+      "rating": 4.95,
+      "reviewsCount": 512,
+      "priceRange": "$$$$",
+      "cuisine": "French Fine Dining",
+      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1502301103665-0b95cc738daf?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Parijning qoq markazida joylashgan, 2 Michelin yulduziga loyiq ko'rilgan VALVERIS Paris Étoile an'anaviy frantsuz nafosatini zamonaviy molekulyar elementlar bilan boyitadi.",
+      "features": ["Michelin Experience", "Vintage Wine Library", "Private Dining Salon", "Champagne Bar"],
+      "headChef": "Chef Laurent Mercier",
+      "capacity": 85
+    },
+    {
+      "id": "valveris-istanbul",
+      "name": "VALVERIS Istanbul Bosphorus",
+      "tagline": "Breathtaking Waterfront Mediterranean Dining",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "address": "Bebek Caddesi No: 42, Besiktas, Istanbul",
+      "phone": "+90 212 345 67 89",
+      "hours": "12:00 - 01:00 Daily",
+      "rating": 4.92,
+      "reviewsCount": 620,
+      "priceRange": "$$$$",
+      "cuisine": "Aegean & Mediterranean Signature",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Bo'g'oz bo'yidagi go'zal manzara, yangi tutilgan dengiz mahsulotlari va O'rta er dengizi ziravorlarining beqiyos uyg'unligi. Oqshomgi quyosh botishida unutilmas dasturxon.",
+      "features": ["Waterfront Deck", "Yacht Pier Access", "Seafood Display Bar", "Open Fire Grill"],
+      "headChef": "Chef Emre Soylu",
+      "capacity": 160
+    },
+    {
+      "id": "valveris-london",
+      "name": "VALVERIS London Mayfair",
+      "tagline": "Aristocratic British & Continental Heritage",
+      "city": "London",
+      "country": "United Kingdom",
+      "address": "14 Berkeley Square, Mayfair, London W1J 6BL",
+      "phone": "+44 20 7946 0912",
+      "hours": "12:00 - 23:00 (Mon-Sat)",
+      "rating": 4.89,
+      "reviewsCount": 440,
+      "priceRange": "$$$$",
+      "cuisine": "Modern British & Dry-Aged Steaks",
+      "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Mayfair aristokratik muhitida joylashgan VALVERIS London o'zining 45 kun yetiltirilgan steyklari, nodir viski kolleksiyasi va shohona xizmat darajasi bilan ajralib turadi.",
+      "features": ["Dry-Age Cellar", "Whiskey Vault", "Private Cigar Lounge", "Butler Table Service"],
+      "headChef": "Chef Alexander Wright",
+      "capacity": 110
+    },
+    {
+      "id": "valveris-dubai",
+      "name": "VALVERIS Dubai Marina",
+      "tagline": "Skyline Luxury & Caviar Lounge",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "address": "Pier 7, Floor 5, Dubai Marina",
+      "phone": "+971 4 399 2200",
+      "hours": "13:00 - 02:00 Daily",
+      "rating": 4.96,
+      "reviewsCount": 780,
+      "priceRange": "$$$$$",
+      "cuisine": "International Luxury & Caviar Bar",
+      "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Dubay marinasi ustida joylashgan panoramik ayvon, Beluga ikrasi, oltin bilan bezatilgan desertlar va dunyoning eng sara ingredientlaridan tayyorlangan eksklyuziv taomnoma.",
+      "features": ["360 Skyline View", "Caviar Tasting Bar", "Gold Leaf Mocktails", "DJ Sunset Lounge"],
+      "headChef": "Chef Tariq Al-Mansour",
+      "capacity": 200
+    },
+    {
+      "id": "valveris-rome",
+      "name": "VALVERIS Roma Imperial",
+      "tagline": "Renaissance Palatial Dining Experience",
+      "city": "Rome",
+      "country": "Italy",
+      "address": "Via del Corso 120, 00186 Roma",
+      "phone": "+39 06 6987 4521",
+      "hours": "12:00 - 23:30 Daily",
+      "rating": 4.91,
+      "reviewsCount": 490,
+      "priceRange": "$$$$",
+      "cuisine": "Authentic Haute Italian",
+      "image": "https://images.unsplash.com/photo-1502301103665-0b95cc738daf?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1502301103665-0b95cc738daf?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "XVI asr saroyining restavratsiya qilingan zallarida qo'lda tayyorlangan pasta, truffle durdonalari va Toskana vodiysining eng nodir zaytun moylari bilan unutilmas italyancha kecha.",
+      "features": ["Historic Frescoes", "Olive Oil Bar", "Artisan Pasta Workshop", "Courtyard Garden"],
+      "headChef": "Chef Matteo Rossi",
+      "capacity": 95
+    }
+  ],
+  "specials": [
+    {
+      "id": "dish-wagyu",
+      "name": "A5 Wagyu Beef Truffle Glaze",
+      "category": "Signature Mains",
+      "price": "$85.00",
+      "description": "Miyazaki A5 Wagyu tenderloin with Perigord black truffle reduction, smoked parsnip puree, and gold leaf crisp.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+      "calories": "680 kcal",
+      "prepTime": "25 min",
+      "isChefSpecial": true
+    },
+    {
+      "id": "dish-seabass",
+      "name": "Chilean Seabass Saffron Emulsion",
+      "category": "Seafood",
+      "price": "$64.00",
+      "description": "Pan-seared Chilean sea bass perched on baby asparagus, saffron velouté, and Oscietra caviar pearls.",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80",
+      "calories": "520 kcal",
+      "prepTime": "20 min",
+      "isChefSpecial": true
+    },
+    {
+      "id": "dish-duck",
+      "name": "Slow-Roasted Duck Breast with Cherry Port",
+      "category": "Signature Mains",
+      "price": "$58.00",
+      "description": "Crispy skin Challans duck breast, spiced Bing cherry reduction, heritage baby carrots, and thyme fondant.",
+      "image": "https://images.unsplash.com/photo-1514944298352-5a9e5fa47285?auto=format&fit=crop&w=800&q=80",
+      "calories": "610 kcal",
+      "prepTime": "30 min",
+      "isChefSpecial": false
+    },
+    {
+      "id": "dish-tagliolini",
+      "name": "Handmade Tagliolini al Tartufo",
+      "category": "Pasta & Risotto",
+      "price": "$48.00",
+      "description": "Fresh egg tagliolini spun in 36-month Parmigiano Reggiano wheel with shaved Norcia black truffles.",
+      "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=800&q=80",
+      "calories": "580 kcal",
+      "prepTime": "15 min",
+      "isChefSpecial": true
+    },
+    {
+      "id": "dish-scallops",
+      "name": "Hokkaido Scallop Crudo",
+      "category": "Appetizers",
+      "price": "$38.00",
+      "description": "Sashimi-grade Hokkaido scallops with finger lime, yuzu ponzu emulsion, and cold-pressed shiso oil.",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+      "calories": "280 kcal",
+      "prepTime": "12 min",
+      "isChefSpecial": false
+    },
+    {
+      "id": "dish-parfait",
+      "name": "VALVERIS Golden Pistachio Sphere",
+      "category": "Desserts",
+      "price": "$29.00",
+      "description": "Bronte pistachio mousse enveloped in a thin dark chocolate sphere with warm raspberry coulis pour.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "calories": "410 kcal",
+      "prepTime": "10 min",
+      "isChefSpecial": true
+    }
+  ],
+  "tables": [
+    { "id": 1, "tableNumber": 1, "seats": 2, "zone": "Window View", "status": "available", "description": "Romantic window table with panoramic courtyard view", "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=400&q=80" },
+    { "id": 2, "tableNumber": 2, "seats": 2, "zone": "Window View", "status": "available", "description": "Intimate booth bathed in sunset light", "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=400&q=80" },
+    { "id": 3, "tableNumber": 3, "seats": 4, "zone": "Window View", "status": "booked", "description": "Spacious family table along floor-to-ceiling glass", "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=400&q=80" },
+    { "id": 4, "tableNumber": 4, "seats": 4, "zone": "Window View", "status": "available", "description": "Corner table with dual-aspect city panorama", "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=400&q=80" },
+    { "id": 5, "tableNumber": 5, "seats": 6, "zone": "Window View", "status": "available", "description": "Grand window table ideal for celebration dinners", "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=400&q=80" },
+    { "id": 6, "tableNumber": 6, "seats": 2, "zone": "Main Hall", "status": "available", "description": "Chic table adjacent to acoustic live piano", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 7, "tableNumber": 7, "seats": 2, "zone": "Main Hall", "status": "booked", "description": "Velvet banquette seating in central hall", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 8, "tableNumber": 8, "seats": 4, "zone": "Main Hall", "status": "available", "description": "Italian marble table under crystal chandelier", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 9, "tableNumber": 9, "seats": 4, "zone": "Main Hall", "status": "available", "description": "Comfortable leather armchairs with central ambiance", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 10, "tableNumber": 10, "seats": 4, "zone": "Main Hall", "status": "booked", "description": "Sleek contemporary dining square", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 11, "tableNumber": 11, "seats": 6, "zone": "Main Hall", "status": "available", "description": "Large round table with center lazy susan option", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 12, "tableNumber": 12, "seats": 6, "zone": "Main Hall", "status": "available", "description": "Executive banquet setup in lively main salon", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 13, "tableNumber": 13, "seats": 2, "zone": "Main Hall", "status": "available", "description": "Cozy table close to the master sommelier station", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 14, "tableNumber": 14, "seats": 2, "zone": "Main Hall", "status": "available", "description": "Private recessed booth with warm pendant light", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 15, "tableNumber": 15, "seats": 4, "zone": "Main Hall", "status": "available", "description": "Central avenue table with swift sommelier access", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 16, "tableNumber": 16, "seats": 4, "zone": "Main Hall", "status": "booked", "description": "Fine walnut dining table with plush seating", "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=400&q=80" },
+    { "id": 17, "tableNumber": 17, "seats": 8, "zone": "Main Hall", "status": "available", "description": "Imperial long table for corporate feasts and banquets", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 18, "tableNumber": 18, "seats": 2, "zone": "VIP Zone", "status": "available", "description": "Private curtained alcove with dedicated butler", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 19, "tableNumber": 19, "seats": 4, "zone": "VIP Zone", "status": "booked", "description": "Exclusive Amber Salon with private wine cellar entrance", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 20, "tableNumber": 20, "seats": 4, "zone": "VIP Zone", "status": "available", "description": "Gold Salon with soundproof partitions and fine porcelain", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 21, "tableNumber": 21, "seats": 6, "zone": "VIP Zone", "status": "available", "description": "Royal Salon with custom fireplace and private server", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 22, "tableNumber": 22, "seats": 8, "zone": "VIP Zone", "status": "available", "description": "Presidential Dining Chamber with bespoke menu curation", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" },
+    { "id": 23, "tableNumber": 23, "seats": 2, "zone": "Window View", "status": "available", "description": "Skyline view table with direct sunset exposure", "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=400&q=80" },
+    { "id": 24, "tableNumber": 24, "seats": 4, "zone": "Window View", "status": "available", "description": "Glasshouse terrace table overlooking botanical greens", "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=400&q=80" },
+    { "id": 25, "tableNumber": 25, "seats": 10, "zone": "VIP Zone", "status": "available", "description": "Grand Sovereign Pavilion for high-profile delegations", "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=400&q=80" }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Elena Rostova",
+      "role": "Gastronomy Critic, Michelin Guide Reviewer",
+      "rating": 5,
+      "comment": "VALVERIS defines true culinary luxury. The Miyazaki Wagyu paired with black truffle sauce was an unforgettable symphony of flavors. Service is discreet, regal, and immaculate.",
+      "date": "October 2026",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": 2,
+      "author": "Javohir Mirzayev",
+      "role": "International Architect & Food Enthusiast",
+      "rating": 5,
+      "comment": "Toshkentdagi eng yuqori darajadagi xizmat va dizayn. Stol bron qilish jarayoni oson, xodimlar har bir mehmonga alohida ehtirom bilan yondashadi. 10/10 tavsiya qilaman!",
+      "date": "September 2026",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": 3,
+      "author": "Charles de Montgomery",
+      "role": "Hospitality Consultant, London",
+      "rating": 5,
+      "comment": "From the sommelier's pairing to the bespoke private dining salon, VALVERIS sets an uncompromising benchmark for fine dining across Europe and Central Asia.",
+      "date": "August 2026",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80"
+    },
+    {
+      "id": 4,
+      "author": "Selin Yılmaz",
+      "role": "Culinary Journalist, Istanbul",
+      "rating": 5,
+      "comment": "Boğaz manzarası eşliğinde sunulan deniz ürünleri ve Valveris'in özel tatlıları rüya gibiydi. Rezervasyon sistemi son derece hızlı ve güvenilir.",
+      "date": "July 2026",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80"
+    }
+  ]
+}
